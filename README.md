@@ -41,7 +41,7 @@ house-price-predictor/
 
 1⃣ Clone Repository
 
-git clone https://github.com/your-username/house-price-predictor.git
+git clone https://github.com/your-username/house-price-predictor.git](https://github.com/mohamed-arsath-001/Advanced-House-price-prediction/
 cd house-price-predictor
 
 2⃣ Set Up Virtual Environment
@@ -62,7 +62,7 @@ python src/evaluate_model.py
 5⃣ (Optional) Launch App
 
 python src/app.py
-# Visit http://localhost:5000 or use the Streamlit UI if configured
+Visit http://localhost:5000 or use the Streamlit UI if configured
 
 ## Model Performance 
 
