@@ -22,21 +22,6 @@ ML Models: Linear Regression, Random Forest, XGBoost
 
 Deployment: Flask (API) or Streamlit (UI)
 
-## Folder Structure : 
-
-house-price-predictor/
-├── data/                     # Raw and processed data
-├── notebooks/                # Jupyter notebooks for EDA and modeling
-├── models/                   # Saved trained models
-├── src/                      # Python modules
-│   ├── data_cleaning.py
-│   ├── feature_engineering.py
-│   ├── train_model.py
-│   ├── evaluate_model.py
-│   └── app.py                # Flask/Streamlit app
-├── requirements.txt
-└── README.md
-
 ## Getting Started : 
 
 1⃣ Clone Repository
