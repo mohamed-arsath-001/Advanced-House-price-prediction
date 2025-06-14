@@ -122,17 +122,6 @@ Deploy on Heroku, AWS, or Render for public access
 
 ✅ Extend with ensemble voting or stacking
 
-## Contributing
-
-Open to collaboration, pull requests, or mentorship opportunities.
-
-# Fork the repo
-# Create your branch: git checkout -b feature/new-feature
-# Commit your changes: git commit -am 'Add new feature'
-# Push to the branch: git push origin feature/new-feature
-# Submit a pull request
-
-
 ## 📫 Let’s Connect
 
 💬 If you’re a recruiter, mentor, or fellow tech enthusiast, I’d love to connect:
